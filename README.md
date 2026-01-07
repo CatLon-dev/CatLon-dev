@@ -8,8 +8,8 @@
   <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CatLon-dev?label=Follow&style=social)](https://github.com/brayanson1)
-[![GitHub Stars](https://img.shields.io/github/stars/CatLon-dev?style=social)](https://github.com/brayanson1)
+[![GitHub Followers](https://img.shields.io/github/followers/CatLon-dev?label=Follow&style=social)](https://github.com/CatLon-dev)
+[![GitHub Stars](https://img.shields.io/github/stars/CatLon-dev?style=social)](https://github.com/CatLon-dev)
 
 </div>
 

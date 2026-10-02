@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="362" viewBox="0 0 620 362">
+<style>
+  text{font:500 15px 'JetBrains Mono','Cascadia Code',Consolas,Menlo,monospace;white-space:pre}
+  .ln{animation:in .2s backwards}
+  .cur{animation:b 1s steps(1) infinite}
+  .bar{font:600 12px 'JetBrains Mono','Cascadia Code',Consolas,Menlo,monospace;fill:#7f9489;letter-spacing:2px}
+  @keyframes in{from{opacity:0}}
+  @keyframes b{50%{opacity:0}}
+</style>
+<path d="M14 1H619V347L605 361H1V15Z" fill="#050a08" stroke="#27c25c" stroke-width="2"/>
+<path d="M14 1H619V34H1V15Z" fill="#0d1f17"/>
+<line x1="1" y1="34" x2="619" y2="34" stroke="#27c25c" stroke-width="1"/>
+<rect x="18" y="13" width="10" height="10" fill="#27c25c"/><rect x="34" y="13" width="10" height="10" fill="none" stroke="#27c25c"/><rect x="50" y="13" width="10" height="10" fill="none" stroke="#27c25c"/>
+<text x="310.0" y="23" text-anchor="middle" class="bar">CATLON-DEV@NODE_01: ~</text>
+<text x="22" y="66" fill="#27c25c" style="animation-delay:0.00s" class="ln">$ whoami</text><text x="22" y="90" fill="#eafff2" style="animation-delay:0.35s" class="ln">catlon-dev :: Full Stack Developer</text><text x="22" y="114" fill="#27c25c" style="animation-delay:0.70s" class="ln">$ cat perfil.json</text><text x="22" y="138" fill="#b6c4bc" style="animation-delay:1.05s" class="ln">{</text><text x="22" y="162" fill="#b6c4bc" style="animation-delay:1.40s" class="ln">  "estudio":     "Ing. de Software con IA",</text><text x="22" y="186" fill="#b6c4bc" style="animation-delay:1.75s" class="ln">  "construyo":   ["webs", "sistemas", "e-commerce"],</text><text x="22" y="210" fill="#b6c4bc" style="animation-delay:2.10s" class="ln">  "stack":       "Next.js + TypeScript + Node",</text><text x="22" y="234" fill="#b6c4bc" style="animation-delay:2.45s" class="ln">  "enfoque":     "codigo limpio y escalable",</text><text x="22" y="258" fill="#b6c4bc" style="animation-delay:2.80s" class="ln">  "aprendiendo": "IA aplicada a negocios"</text><text x="22" y="282" fill="#b6c4bc" style="animation-delay:3.15s" class="ln">}</text><text x="22" y="306" fill="#27c25c" style="animation-delay:3.50s" class="ln">$ status</text><text x="22" y="330" fill="#27c25c" style="animation-delay:3.85s" class="ln">[ONLINE] abierto a colaborar en proyectos</text>
+<rect class="cur" x="401.09999999999997" y="316" width="10" height="18" fill="#27c25c"/>
+</svg>

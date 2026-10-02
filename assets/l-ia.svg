@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="40" viewBox="0 0 300 40">
+<style>.l{font:700 15px 'JetBrains Mono','Cascadia Code',Consolas,Menlo,monospace;fill:#27c25c;letter-spacing:3px}.p{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.35}}</style>
+<path d="M10 1H299V29L289 39H1V11Z" fill="#07100b" stroke="#27c25c" stroke-width="1.5"/>
+<g transform="translate(12,9) scale(0.9166666666666666)" fill="none" stroke="#27c25c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"/><path d="M19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8z"/></g>
+<text x="44" y="26" class="l">IA // LENGUAJES</text>
+<rect class="p" x="274" y="16" width="8" height="8" fill="#27c25c"/>
+</svg>

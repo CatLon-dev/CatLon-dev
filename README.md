@@ -86,19 +86,9 @@
 
 <br>
 
-<img src="assets/h-mensaje.svg" width="100%" alt="04 // Transmisión" />
-
 <div align="center">
-
-<br>
-
-**Gracias por conectarte a mi perfil.**
 
 Si algún repositorio te resulta útil, déjale una estrella.<br>
 Y si tienes una idea interesante, siempre estoy abierto a colaborar.
-
-<br>
-
-<img src="assets/footer.svg" width="100%" alt="Fin de la transmisión" />
 
 </div>

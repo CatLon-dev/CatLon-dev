@@ -14,7 +14,7 @@
 
 <img src="assets/r-proyectos.png" width="100%" alt="cat proyectos.json" />
 <p>
-  <a href="https://clsolution.vercel.app/#proyectos"><img src="assets/r-proyecto-kantu.gif" width="32%" alt="Kantu Hostal: sistema de reservas" /></a>
+  <a href="https://edificio-mirador-web.vercel.app"><img src="assets/r-proyecto-edificio.gif" width="32%" alt="Edificio Mirador: showroom con recorrido 3D" /></a>
   <a href="https://clsolution.vercel.app"><img src="assets/r-proyecto-clsolution.gif" width="32%" alt="CL Solutions: webs, tiendas y sistemas a medida" /></a>
   <a href="https://clsolution.vercel.app/#proyectos"><img src="assets/r-proyecto-qapaq.gif" width="32%" alt="Q'apaq Alpaca: tienda de ropa de alpaca" /></a>
 </p>

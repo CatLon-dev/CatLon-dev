@@ -14,9 +14,9 @@
 
 <img src="assets/r-proyectos.png" width="100%" alt="cat proyectos.json" />
 <p>
-  <a href="https://tourrutas.vercel.app"><img src="assets/r-proyecto-1.png" width="32%" alt="Tourrutas" /></a>
-  <a href="https://nayra-travel.vercel.app"><img src="assets/r-proyecto-2.png" width="32%" alt="Nayra Travel" /></a>
-  <a href="https://edificio-mirador-web.vercel.app"><img src="assets/r-proyecto-3.png" width="32%" alt="Edificio Mirador" /></a>
+  <a href="https://clsolution.vercel.app/#proyectos"><img src="assets/r-proyecto-kantu.gif" width="32%" alt="Kantu Hostal: sistema de reservas" /></a>
+  <a href="https://clsolution.vercel.app"><img src="assets/r-proyecto-clsolution.gif" width="32%" alt="CL Solutions: webs, tiendas y sistemas a medida" /></a>
+  <a href="https://clsolution.vercel.app/#proyectos"><img src="assets/r-proyecto-qapaq.gif" width="32%" alt="Q'apaq Alpaca: tienda de ropa de alpaca" /></a>
 </p>
 
 <img src="assets/r-stats.png" width="100%" alt="git log --stats" />
@@ -25,11 +25,6 @@
   <img src="https://streak-stats.demolab.com?user=CatLon-dev&locale=es&hide_border=true&border_radius=8&background=0C0C0C&ring=FF1F3D&fire=FF1F3D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1F3D&sideLabels=6B6B6B&dates=6B6B6B&stroke=FF1F3D4D" width="100%" alt="Racha de contribuciones" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatLon-dev/CatLon-dev/output/contribuciones-oscuro.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatLon-dev/CatLon-dev/output/contribuciones.svg" />
-  <img src="https://raw.githubusercontent.com/CatLon-dev/CatLon-dev/output/contribuciones-oscuro.svg" width="100%" alt="Gráfico de contribuciones" />
-</picture>
 
 <br />
 

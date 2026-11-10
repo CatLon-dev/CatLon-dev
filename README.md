@@ -14,6 +14,10 @@
 
 <br /><br />
 
-<a href="https://github.com/CatLon-dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1200&color=FCEE0A&center=true&vCenter=true&width=600&lines=%3E+NET%2F%2FONLINE+%C2%B7+construyendo+algo+mejor+cada+d%C3%ADa_;%3E+webs+%C2%B7+sistemas+a+medida+%C2%B7+IA+aplicada_" alt="> construyendo algo mejor cada día" /></a>
+<a href="https://github.com/CatLon-dev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1200&color=FCEE0A&center=true&vCenter=true&width=600&lines=%3E+NET%2F%2FONLINE+%C2%B7+construyendo+algo+mejor+cada+d%C3%ADa_;%3E+webs+%C2%B7+sistemas+a+medida+%C2%B7+IA+aplicada_" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1200&color=24292F&center=true&vCenter=true&width=600&lines=%3E+NET%2F%2FONLINE+%C2%B7+construyendo+algo+mejor+cada+d%C3%ADa_;%3E+webs+%C2%B7+sistemas+a+medida+%C2%B7+IA+aplicada_" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1200&color=FCEE0A&center=true&vCenter=true&width=600&lines=%3E+NET%2F%2FONLINE+%C2%B7+construyendo+algo+mejor+cada+d%C3%ADa_;%3E+webs+%C2%B7+sistemas+a+medida+%C2%B7+IA+aplicada_" alt="> construyendo algo mejor cada día" />
+</picture></a>
 
 </div>
